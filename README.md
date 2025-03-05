@@ -4,8 +4,6 @@
 <a href= "#Statusdoprojeto">Status do projeto;<a/>
 <a href= "#Autoradoprojeto">Autora do projeto;<a/>
 <a href= "#Tecnologiasutilizadas">Tecnologias utilizadas;<a/>
-<a href= "#Licença">Licença;<a/>
-<a href= "#Badges">Badges;<a/>
 <a href= "#Descricaodoprojeto">Descrição do projeto;<a/>
 <a href= "#Funcionalidades">Funcionalidades;<a/>
 <a href= "#Comoutilizar">Como utilizar;<a/>
