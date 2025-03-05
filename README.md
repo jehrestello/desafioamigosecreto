@@ -16,6 +16,12 @@
 :ok_woman: Autora do projeto: Jéssica Restello
 
 [Veja meu Linkedin](https://www.linkedin.com/in/jessicarestello/)
+
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/releases)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 </h4>
 
 ## :wrench:Tecnologias utilizadas; 
