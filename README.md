@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="Capa" title="Capa" src=".github/capa.png" />
-</h1>
-
 <h1 align="center"> :computer: Sorteador de Amigo Secreto :gift: </h1>
 
 <p align="center">
