@@ -4,7 +4,7 @@
 <a href= "#Statusdoprojeto">Status do projeto;<a/>
 <a href= "#Autoradoprojeto">Autora do projeto;<a/>
 <a href= "#Tecnologiasutilizadas">Tecnologias utilizadas;<a/>
-<a href= "#Descricaodoprojeto">Descrição do projeto;<a/>
+<a href= "#Descricao">Descrição;<a/>
 <a href= "#Funcionalidades">Funcionalidades;<a/>
 <a href= "#Comoutilizar">Como utilizar;<a/>
 
@@ -24,7 +24,7 @@ As seguintes tecnologias foram utilizadas:
 - CSS.
 ```
 
-# :round_pushpin:Descrição do projeto: 
+# :round_pushpin:Descrição: 
 <p>Tenho uma bolsa de estudos e participo da turma 8 do programa ONE - uma parceria entre Oracle e Alura, para incentivar mulheres na tecnologia.</p>
 <p>Este é o meu primeiro projeto de tecnologia com linguagens de programação, então este projeto representa a entrega do primeiro desafio do programa. :mortar_board:</p>
 <p>Consiste em um sorteador, você insere nomes de pessoas e a ferramenta sorteia aleatoriamente um nome da lista e monstra na tela o resultado.</p>
